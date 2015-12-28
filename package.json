@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      "npm_pushlish_demo",
+      "C:\\Users\\user\\Desktop\\ddd"
+    ]
+  ],
+  "_from": "npm_pushlish_demo@latest",
+  "_id": "npm_pushlish_demo@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/npm_pushlish_demo",
+  "_npmUser": {
+    "email": "cainmaila@gmail.com",
+    "name": "cain.chu"
+  },
+  "_npmVersion": "1.4.28",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "npm_pushlish_demo",
+    "raw": "npm_pushlish_demo",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/npm_pushlish_demo/-/npm_pushlish_demo-1.0.0.tgz",
+  "_shasum": "0a3f39e8da24691cb6a3f41f973d33ebbd722557",
+  "_shrinkwrap": null,
+  "_spec": "npm_pushlish_demo",
+  "_where": "C:\\Users\\user\\Desktop\\ddd",
+  "author": {
+    "name": "cain.chu"
+  },
+  "bugs": {
+    "url": "https://github.com/cainmaila/npm_pushlish_demo/issues"
+  },
+  "dependencies": {},
+  "description": "0.0.1",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0a3f39e8da24691cb6a3f41f973d33ebbd722557",
+    "tarball": "http://registry.npmjs.org/npm_pushlish_demo/-/npm_pushlish_demo-1.0.0.tgz"
+  },
+  "gitHead": "12d4de1e4a544f10c53b627438dec523f2310f5d",
+  "homepage": "https://github.com/cainmaila/npm_pushlish_demo",
+  "keywords": [
+    "demo"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "cain.chu",
+      "email": "cainmaila@gmail.com"
+    }
+  ],
+  "name": "npm_pushlish_demo",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cainmaila/npm_pushlish_demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
